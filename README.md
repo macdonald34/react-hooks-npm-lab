@@ -219,7 +219,7 @@ script in the `index.html` file to use this new file. Find this line:
 ```
 
 Change the `src` property to `dist/out.js`. Now we're finally ready to start the
-server. Run `npm start` then open up [localhost:3000](http://localhost:3000) in
+server. Run `npm start` then open up [localhost:3000](npm start) in
 the browser. You should now see a colorful clock appear!
 
 ## Conclusion
